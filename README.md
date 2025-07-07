@@ -24,7 +24,8 @@ Hi, I'm Leandro!
 - ⚠️ Knowledge of Occupational Risk Prevention
 
 - ⚡ Fun fact: Coding is a passion, not a profession.
-
+- 
+<hr>
 <h3 font-size="20" align="center">Skills learned</h3>
 <hr>
 
