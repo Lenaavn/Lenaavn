@@ -10,8 +10,6 @@ Hi, I'm Leandro!
 <a href = "mailto:leandro1531@outlook.es" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"  /></a>
 </div>
 
----
-
 <h3 font-size="20" align="center">A passionate backend and frontend developer</h3>
 <hr>
 
@@ -24,8 +22,7 @@ Hi, I'm Leandro!
 - ⚠️ Knowledge of Occupational Risk Prevention
 
 - ⚡ Fun fact: Coding is a passion, not a profession.
-- 
-<hr>
+  
 <h3 font-size="20" align="center">Skills learned</h3>
 <hr>
 
