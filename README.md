@@ -12,7 +12,7 @@ Hi, I'm Leandro!
 
 ---
 
-<h3 font-size="20" align="center">A passionate backend and frontend developer</h3>
+<h3 font-size="20" align="left">A passionate backend and frontend developer</h3>
 
 - 🤝 Teamwork and active collaboration <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
@@ -24,7 +24,7 @@ Hi, I'm Leandro!
 
 - ⚡ Fun fact: Coding is a passion, not a profession.
 
-<h3 font-size="20" align="center">Skills learned</h3>
+<h3 font-size="20" align="left">Skills learned</h3>
 
 - 🧩 Frontend Development: Angular, JavaScript, CSS
 
@@ -62,7 +62,9 @@ Hi, I'm Leandro!
 
 ---
 ### My Github stats:
-![🦾eandro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=🦾eandro&theme=highcontrast&hide_border=true)
+![Lenaavn's Stats](https://github-readme-stats.vercel.app/api?username=Lenaavn&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+
+![Lenaavn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lenaavn&theme=highcontrast&hide_border=true)
 
 ---
-<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+![Lenaavn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenaavn&theme=highcontrast&show_icons=true&hide_border=true&layout=compact) <p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
