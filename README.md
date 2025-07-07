@@ -75,5 +75,5 @@ Hi, I'm Leandro!
 ---
 
 <p align="center">
-<div class="tenor-gif-embed" data-postid="24991315" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/scaler-create-impact-chill-relax-coding-gif-24991315">Scaler Create Impact GIF</a>from <a href="https://tenor.com/search/scaler-gifs">Scaler GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src='https://tenor.com/bXh1m.gif' width="50%" height="50%" style="position:absolute"/>
 </p>
