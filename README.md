@@ -4,12 +4,16 @@ Hi, I'm Leandro!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
+
 ---
+
 <div align=center>
- <a href="https://www.linkedin.com/in/leandro-antonio-vidal-n%C3%BA%C3%B1ez-655979229/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href = "mailto:leandro1531@outlook.es" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"  /></a>
+<a href="https://www.linkedin.com/in/leandro-antonio-vidal-n%C3%BA%C3%B1ez-655979229/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href = "mailto:leandro1531@outlook.es" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"  /></a>
 </div>
+
 ---
+
 <h3 font-size="20" align="center">A passionate backend and frontend developer</h3>
 
 - 🤝 Teamwork and active collaboration <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
@@ -48,8 +52,8 @@ Hi, I'm Leandro!
 
 ---
 ### My Github stats:
-![](https://github-readme-stats.vercel.app/api?username=itsazahara&theme=light&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=itsazahara&theme=light&hide_border=false)
+![🦾eandro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=🦾eandro&theme=highcontrast&hide_border=true)
+
 
 ---
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
