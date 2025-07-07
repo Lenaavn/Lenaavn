@@ -12,10 +12,8 @@ Hi, I'm Leandro!
 
 ---
 
-<h3 style="font-size: 20px; color: red; text-align: center;">
-  <strong><u>A passionate backend and frontend developer</u></strong>
-</h3>
-<br>
+<h3 font-size="20" align="center">A passionate backend and frontend developer</h3>
+<hr>
 
 - 🤝 Teamwork and active collaboration <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
@@ -27,8 +25,8 @@ Hi, I'm Leandro!
 
 - ⚡ Fun fact: Coding is a passion, not a profession.
 
-<h3 style="font-size: 20px; color: red; text-align: center;">Skills learned</h3>
-<br>
+<h3 font-size="20" align="center">Skills learned</h3>
+<hr>
 
 - 🧩 Frontend Development: Angular, JavaScript, CSS
 
@@ -75,5 +73,5 @@ Hi, I'm Leandro!
 ---
 
 <p align="center">
-<img src='https://tenor.com/bXh1m.gif' width="50%" height="50%" style="position:absolute"/>
+<img src='https://media1.tenor.com/m/Yzeh4Z4UQuAAAAAd/viciadoemcodar.gif' width="50%" height="50%" style="position:absolute"/>
 </p>
