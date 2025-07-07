@@ -5,8 +5,6 @@ Hi, I'm Leandro!
 	</a>
 </h1>
 
----
-
 <div align=center>
 <a href="https://www.linkedin.com/in/leandro-antonio-vidal-n%C3%BA%C3%B1ez-655979229/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href = "mailto:leandro1531@outlook.es" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"  /></a>
@@ -25,6 +23,18 @@ Hi, I'm Leandro!
 - ⚠️ Knowledge of Occupational Risk Prevention
 
 - ⚡ Fun fact: Coding is a passion, not a profession.
+
+<h3 font-size="20" align="center">Skills learned</h3>
+
+- 🧩 Frontend Development: Angular, JavaScript, CSS
+
+- 🛠️ Backend Development: Spring Boot, PHP
+
+- 🗃️ Databases: MySQL
+
+- 🔐 Security: Spring Security
+
+- 🔄 Comprehensive vision: Complete experience on the client and server sides
 
 ---
 
@@ -53,7 +63,6 @@ Hi, I'm Leandro!
 ---
 ### My Github stats:
 ![🦾eandro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=🦾eandro&theme=highcontrast&hide_border=true)
-
 
 ---
 <p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
